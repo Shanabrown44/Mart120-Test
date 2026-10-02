@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Contact Us</title>
+</head>
+<body>
+<h1>Contact Us</h1>
+<label for="name">Name:</label>
+<input type="text" id="name" name="name">
+
+<label for="email">Email Address:</label>
+<input type="email" id="email" name="email">
+<p>Do you accept the terms of Agreement?</p>
+<input type="radio" id="yes" name="terms" value="yes">
+<label for="yes">Yes</label>
+<input type="radio" id="no" name="terms" value="no">
+<input type="submit" value="Submit">
+<a href="C:\Users\shana\OneDrive\Brown_Mart302_f25_E2\My Website\Homepage.html">Back to Hompage</a>
+<a href="C:\Users\shana\OneDrive\Brown_Mart302_f25_E2\My Website\Story\story.html">Back to Story</a>
+</body>
+</html>
